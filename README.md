@@ -1,14 +1,14 @@
 # Silver-Store
 Flag Silver Marketing Project
 
-Project Overview
-
+**Project Overview
+**
 This repository contains all marketing plans, promotional content, and social media strategies for Flag Silver, a silver jewelry store.
 The goal is to boost sales, position the brand as a symbol of elegance and sophistication, and increase engagement with customers both online and offline.
 Additionally, Flag Silver will launch an Easy Order online store to create new opportunities for brand growth and expand customer reach.
 
-Goals
-
+**Goals
+**
 Increase sales of silver jewelry (rings, necklaces, bracelets, sets).
 
 Grow engagement and followers on social media platforms (Instagram, Facebook, TikTok).
@@ -19,8 +19,8 @@ Enhance customer loyalty through a premium shopping experience.
 
 Leverage the Easy Order store to tap into e-commerce opportunities and reach new markets.
 
-Team Roles
-
+**Team Roles
+**
 Member 1: Product photography & video creation (macro shots, lifestyle, reels).
 
 Member 2: Social media management & posting.
